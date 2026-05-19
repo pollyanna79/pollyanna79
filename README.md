@@ -9,7 +9,7 @@ Sou uma profissional calma, criativa e com forte foco em atitude e resolução d
 ### 🚀 Sobre Mim & Diferenciais
 - 🎓 **Formação:** Tecnóloga em Análise e Desenvolvimento de Sistemas (Fase Final).
 - 🧠 **Perfil Resolutivo:** Facilidade para entender regras de negócio, arquitetar soluções do zero e otimizar processos.
-- 📊 **Visão de Dados End-to-End:** Capaz de desenvolver a interface de usuário (React), gerenciar o banco de dados (MySQL/Supabase) e criar análises gerenciais (Power BI).
+- 📊 **Visão de Dados End-to-End:** Capaz de desenvolver a interface de usuário (React), gerenciar o banco de dados (MySQL/Supabase) e criar análises gerenciais.
 
 ---
 
