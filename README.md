@@ -1,16 +1,48 @@
-## Hi there 👋
+# Olá, eu sou a Pollyanna! 👋
 
-<!--
-**pollyanna79/pollyanna79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora de Software | Graduanda em Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Sou uma profissional calma, criativa e com forte foco em atitude e resolução de problemas cotidianos. Movida por desafios, combino lógica de programação, modelagem de dados e design de interfaces para transformar problemas complexos em aplicações eficientes e funcionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre Mim & Diferenciais
+- 🎓 **Formação:** Tecnóloga em Análise e Desenvolvimento de Sistemas (Fase Final).
+- 🧠 **Perfil Resolutivo:** Facilidade para entender regras de negócio, arquitetar soluções do zero e otimizar processos.
+- 📊 **Visão de Dados End-to-End:** Capaz de desenvolver a interface de usuário (React), gerenciar o banco de dados (MySQL/Supabase) e criar análises gerenciais (Power BI).
+
+---
+
+### 🛠️ Hard Skills (Tecnologias & Ferramentas)
+
+| Área | Tecnologias |
+| :--- | :--- |
+| **Front-End** | HTML5, CSS3, JavaScript (ES6+), React.js (Componentização, Hooks, Consumo de APIs) |
+| **Back-End / POO** | Python, Java (Programação Orientada a Objetos: Classes, Métodos, Funções) |
+| **Banco de Dados** | MySQL, Supabase, PostgreSQL (Views, Triggers, Functions, Queries Otimizadas) |
+| **Dados & Business** | Excel Avançado, Power BI, Pacote Office |
+| **Versionamento** | Git, GitHub |
+
+---
+
+### 💻 Projetos em Destaque
+
+#### 🔹 Aplicação Web Full-Stack com React & Supabase/MySQL
+Desenvolvimento de uma plataforma dinâmica com foco em componentização e experiência do usuário.
+- **Destaques Técnicos:** Divisão inteligente de cards reutilizáveis, consumo e exportação de dados em tempo real, manipulação de estados, validação em inputs de dados e integração com ícones modernos.
+- **Back-end & Persistência:** Integração direta com bancos de dados relacionais para envio e recebimento de informações de forma segura.
+- [👉 Ver Repositório do Projeto](LINK_DO_PROJETO_AQUI)
+
+#### 🔹 Engenharia de Dados & Otimização SQL
+Scripts e modelagens avançadas focadas em performance e automação de processos dentro do banco de dados.
+- **Destaques Técnicos:** Criação de **Views** para relatórios complexos, **Triggers** para automação de regras de negócio e **Functions** customizadas no MySQL Workbench.
+- [👉 Ver Repositório do Projeto](LINK_DO__PROJETO_DE_BANCO)
+
+---
+
+### 📬 Vamos nos conectar?
+
+- 💼 **LinkedIn:** [Acesse meu perfil profissional](LINK_DO__LINKEDIN)
+- 📧 **E-mail:** [santossouzapollyanna79@gmail.com]
+
+
