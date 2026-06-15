@@ -18,9 +18,9 @@ Sou uma profissional calma, criativa e com forte foco em atitude e resolução d
 | Área | Tecnologias |
 | :--- | :--- |
 | **Front-End** | HTML5, CSS3, JavaScript (ES6+), React.js (Componentização, Hooks, Consumo de APIs) |
-| **Back-End / POO** | Python, Java (Programação Orientada a Objetos: Classes, Métodos, Funções) |
-| **Banco de Dados** | MySQL, Supabase, PostgreSQL (Views, Triggers, Functions, Queries Otimizadas) |
-| **Dados & Business** | Excel Avançado, Power BI, Pacote Office |
+| **Back-End / POO** | Python, JavaScript (Programação Orientada a Objetos: Classes, Métodos, Funções) |
+| **Banco de Dados** | MySQL, Supabase, PostgreSQL,SQL (Views, Triggers, Functions, Queries Otimizadas) |
+| **Dados & Business** | Excel Avançado, Power BI,VBA e  Pacote Office |
 | **Versionamento** | Git, GitHub |
 
 ---
