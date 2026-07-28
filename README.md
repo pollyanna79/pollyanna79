@@ -21,7 +21,8 @@ Sou uma profissional calma, criativa e com forte foco em atitude e resolução d
 | **Back-End / POO** | Python, JavaScript (Programação Orientada a Objetos: Classes, Métodos, Funções) |
 | **FullStack | Arquitetura de sistemas Web
 | **Banco de Dados** | MySQL, Supabase, PostgreSQL,SQL (Views, Triggers, Functions, Queries Otimizadas,OLAP) |
-| **Dados & Business** | Power BI,VBA, Pacote Office , Modelagem de dados |
+| **Automação & Processos  | Python (Jupyter Notebook / Automação de Tarefas), VBA, Pacote Office
+| **Dados & Business** | Power BI, Modelagem de dados |
 | **Versionamento** | Git, GitHub |
 
 ---
