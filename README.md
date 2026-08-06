@@ -1,4 +1,4 @@
-# Olá, eu sou a Pollyanna! 👋
+# Olá, eu sou Pollyanna! 👋
 
 Desenvolvedora de Software | Graduanda em Análise e Desenvolvimento de Sistemas
 
