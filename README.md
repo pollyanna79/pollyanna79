@@ -29,7 +29,7 @@ Profissional analítica, criativa e orientada a resultados, com forte foco em re
 
 # 💻 Projetos em Destaque
 
-1. 🛒 Amigo do Bairro – Sistema Dinâmico de Gestão de Estoque & E-commerce (Full-Stack)
+#1. 🛒 Amigo do Bairro – Sistema Dinâmico de Gestão de Estoque & E-commerce (Full-Stack)
 
 Uma aplicação moderna e de alta performance que integra uma interface rica em componentes React com um ecossistema avançado de Engenharia de Dados. O diferencial arquitetural deste projeto foi descentralizar o processamento, aplicando regras de negócio e inteligência computacional diretamente no motor do banco de dados para garantir sincronização em tempo real e integridade absoluta.
 
@@ -47,7 +47,7 @@ Destaques de Negócio: Sincronização reativa de inventário (bloqueio visual i
 
 🔗 Links do Projeto:https://backendsupermarket-git-master-pollyannasanto.vercel.app
 
-2. 🍿 Cinemark – Plataforma Web Full-Stack Interativa
+##2. 🍿 Cinemark – Plataforma Web Full-Stack Interativa
 Plataforma web de alta interatividade focada em componentização avançada e experiência do usuário (UX), simulando a gestão de reservas, sessões e exibições de forma fluida.
 
 Stack Tecnológica: React.js, Supabase, Banco de Dados Relacional, Componentes Modulares.
@@ -55,6 +55,13 @@ Stack Tecnológica: React.js, Supabase, Banco de Dados Relacional, Componentes M
 Destaques Técnicos: Modularização inteligente de componentes reutilizáveis, gerenciamento complexo de estados, validação em tempo real de inputs de formulários e integração segura com banco de dados em nuvem para persistência de dados.
 
 🔗 Links do Projeto:https://shooppolly.vercel.app/
+
+### 3. 📱 Quiz Educativo Interativo – App Mobile (React Native / Expo)
+Aplicativo mobile educacional e interativo desenvolvido com React Native (Expo) e adaptado para a web, focado em experiência do usuário, navegação dinâmica por telas e lógica de quiz.
+
+* **Stack Tecnológica:** React Native, Expo, React Native Web, JavaScript.
+* **Destaques Técnicos:** Controle de rotas personalizado por componentes, gerenciamento de estados para fluxo de perguntas/respostas, design responsivo e deploy automatizado na nuvem.
+* **🔗 Links do Projeto:** [Repositório no GitHub](https://github.com/pollyanna79/AppMobile) | [Acessar Aplicação (Vercel)](https://mobile-quiz-delta.vercel.app)
 
 
 
