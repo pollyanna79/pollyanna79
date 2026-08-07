@@ -54,7 +54,7 @@ Stack Tecnológica: React.js, Supabase, Banco de Dados Relacional, Componentes M
 
 Destaques Técnicos: Modularização inteligente de componentes reutilizáveis, gerenciamento complexo de estados, validação em tempo real de inputs de formulários e integração segura com banco de dados em nuvem para persistência de dados.
 
-🔗 Links do Projeto:
+🔗 Links do Projeto:https://shooppolly.vercel.app/
 
 
 
