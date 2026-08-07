@@ -15,17 +15,17 @@ Profissional analítica, criativa e orientada a resultados, com forte foco em re
 
 ### 🛠️ Hard Skills (Tecnologias & Ferramentas)
 
-|        Área           |                             Tecnologias 
-| :---  -------- ------- | :--- --------------------------------------------------------------------------------------|
-|   **Front-End          | HTML5, CSS3, JavaScript (ES6+), React.js (Componentização, Hooks, Consumo de APIs)         |
-|   **Back-End|POO       | Python, JavaScript (Programação Orientada a Objetos: Classes, Métodos, Funções)            |
-| **FullStack            | Arquitetura de sistemas Web                                                                |
-| **Banco de Dados       | MySQL, Supabase, PostgreSQL,SQL (Views, Triggers, Functions, Queries Otimizadas,OLAP)      |
-|   *Automação/Processos | Python (Jupyter Notebook / Automação de Tarefas), VBA, Pacote Office                       |
-|    *Dados & Business*  | Power BI, Modelagem Relacional                                                             |                 
-|**Ferramentas & DevOps* | Git, GitHub, MySQL Workbench                                                               |                                                                            |
+| Área | Tecnologias |
+| :--- | :--- |
+| **Front-End** | HTML5, CSS3, JavaScript (ES6+), React.js (Componentização, Hooks, Consumo de APIs) |
+| **Back-End / POO** | Python, JavaScript (Programação Orientada a Objetos: Classes, Métodos, Funções) |
+| **FullStack** | Arquitetura de sistemas Web |
+| **Banco de Dados** | MySQL, Supabase, PostgreSQL, SQL (Views, Triggers, Functions, Queries Otimizadas, OLAP) |
+| **Automação & Processos** | Python (Jupyter Notebook / Automação de Tarefas), VBA, Pacote Office |
+| **Dados & Business** | Power BI, Modelagem Relacional |
+| **Ferramentas & DevOps** | Git, GitHub, MySQL Workbench |
 
----
+
 
 # 💻 Projetos em Destaque
 
