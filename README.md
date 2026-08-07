@@ -70,7 +70,7 @@ Este sistema é apenas uma parte do meu ecossistema de desenvolvimento. Convido 
 🐙 github.com/pollyanna79
 #📬 Vamos nos conectar?
 
-- 💼 **LinkedIn:** pollyanna-santos-dev ()
+- 💼 **LinkedIn:** pollyanna-santos-dev (www.linkedin.com/in/pollyanna-santos-dev)
 - 📧 **E-mail:** santossouzapollyanna79@gmail.com
 
 
