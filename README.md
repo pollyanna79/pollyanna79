@@ -53,7 +53,7 @@ Plataforma web de alta interatividade focada em componentização avançada e ex
 Stack Tecnológica: React.js, Supabase, Banco de Dados Relacional, Componentes Modulares.
 
 Destaques Técnicos: Modularização inteligente de componentes reutilizáveis, gerenciamento complexo de estados, validação em tempo real de inputs de formulários e integração segura com banco de dados em nuvem para persistência de dados.
-
+* **Repositório no GitHub : https://github.com/pollyanna79/shooppolly.git
 🔗 Links do Projeto:https://shooppolly.vercel.app/
 
 ### 3. 📱 Quiz Educativo Interativo – App Mobile (React Native / Expo)
@@ -61,7 +61,8 @@ Aplicativo mobile educacional e interativo desenvolvido com React Native (Expo) 
 
 * **Stack Tecnológica:** React Native, Expo, React Native Web, JavaScript.
 * **Destaques Técnicos:** Controle de rotas personalizado por componentes, gerenciamento de estados para fluxo de perguntas/respostas, design responsivo e deploy automatizado na nuvem.
-* **Repositório no GitHub : [https://github.com/pollyanna79/AppMobile.git ] **🔗 Links do Projeto:(https://mobile-quiz-delta.vercel.app)
+* **Repositório no GitHub :https://github.com/pollyanna79/AppMobile.git 
+*  **🔗 Links do Projeto:(https://mobile-quiz-delta.vercel.app)
 
 
 
