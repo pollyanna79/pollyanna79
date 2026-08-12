@@ -44,7 +44,7 @@ Triggers & Stored Procedures: Automação de regras de integridade e encapsulame
 Ponte de Conexão Segura: Configuração de rede remota com tunelamento e protocolos de segurança para comunicação rápida e blindada entre a aplicação React e o banco em nuvem.
 
 Destaques de Negócio: Sincronização reativa de inventário (bloqueio visual imediato de itens esgotados), fluxo de compra seguro com validação transacional e tratamento robusto de concorrência.
-
+* **Repositório no GitHub : https://github.com/pollyanna79/backendsupermarket.git
 🔗 Links do Projeto:https://backendsupermarket-git-master-pollyannasanto.vercel.app
 
 ##2. 🍿 Cinemark – Plataforma Web Full-Stack Interativa
