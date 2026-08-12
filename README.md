@@ -61,7 +61,7 @@ Aplicativo mobile educacional e interativo desenvolvido com React Native (Expo) 
 
 * **Stack Tecnológica:** React Native, Expo, React Native Web, JavaScript.
 * **Destaques Técnicos:** Controle de rotas personalizado por componentes, gerenciamento de estados para fluxo de perguntas/respostas, design responsivo e deploy automatizado na nuvem.
-* **🔗 Links do Projeto:** [Repositório no GitHub](https://github.com/pollyanna79/AppMobile) | [Acessar Aplicação (Vercel)](https://mobile-quiz-delta.vercel.app)
+* **Repositório no GitHub : [https://github.com/pollyanna79/AppMobile.git ] **🔗 Links do Projeto:(https://mobile-quiz-delta.vercel.app)
 
 
 
