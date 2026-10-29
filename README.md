@@ -46,7 +46,7 @@ Ponte de Conexão Segura: Configuração de rede remota com tunelamento e protoc
 Destaques de Negócio: Sincronização reativa de inventário (bloqueio visual imediato de itens esgotados), fluxo de compra seguro com validação transacional e tratamento robusto de concorrência.
 * **Repositório no GitHub : https://github.com/pollyanna79/backendsupermarket.git
 🔗 Links do Projeto:https://backendsupermarket-git-master-pollyannasanto.vercel.app
-
+*
 ##2. 🍿 Cinemark – Plataforma Web Full-Stack Interativa
 Plataforma web de alta interatividade focada em componentização avançada e experiência do usuário (UX), simulando a gestão de reservas, sessões e exibições de forma fluida.
 
@@ -55,7 +55,7 @@ Stack Tecnológica: React.js, Supabase, Banco de Dados Relacional, Componentes M
 Destaques Técnicos: Modularização inteligente de componentes reutilizáveis, gerenciamento complexo de estados, validação em tempo real de inputs de formulários e integração segura com banco de dados em nuvem para persistência de dados.
 * **Repositório no GitHub : https://github.com/pollyanna79/shooppolly.git
 🔗 Links do Projeto:https://shooppolly.vercel.app/
-
+*
 ### 3. 📱 Quiz Educativo Interativo – App Mobile (React Native / Expo)
 Aplicativo mobile educacional e interativo desenvolvido com React Native (Expo) e adaptado para a web, focado em experiência do usuário, navegação dinâmica por telas e lógica de quiz.
 
@@ -63,9 +63,28 @@ Aplicativo mobile educacional e interativo desenvolvido com React Native (Expo) 
 * **Destaques Técnicos:** Controle de rotas personalizado por componentes, gerenciamento de estados para fluxo de perguntas/respostas, design responsivo e deploy automatizado na nuvem.
 * **Repositório no GitHub :https://github.com/pollyanna79/AppMobile.git 
 *  **🔗 Links do Projeto:(https://mobile-quiz-delta.vercel.app)
+*  
+### 4.✨ Horóscopo Interativo – Aplicação Web & Mobile (React Native / Expo)Aplicação web e mobile interativa focada em astrologia, desenvolvida com React Native (Expo) e adaptada para navegadores,
+oferecendo previsões diárias, consultas de signos e insights do horóscopo chinês com uma experiência de usuário fluida e dinâmica.   Stack Tecnológica: React Native, Expo, React Native Web, JavaScript,
+CSS Modules.Destaques Técnicos: Navegação dinâmica por telas, gerenciamento de estados para exibição personalizada de conteúdos astrológicos, design totalmente responsivo para múltiplos dispositivos e
+integração/deploy automatizado na nuvem.
+Repositório no GitHub: github.com/pollyanna79/HoroscopoPolly
+*  **🔗 Link do Projeto: https://horoscopo-polly.vercel.app/
+*  
+### 5.🚀 Aprender & Brincar – Aplicação Educativa Interativa (React & IA)
+Aplicativo web educativo e interativo voltado para o público infantil (focado em crianças de 2 a 6 anos), desenvolvido com foco em UX lúdica, engajamento dinâmico e integração com inteligência artificial 
+para perguntas, curiosidades e aprendizado divertido.
 
+Stack Tecnológica: React, Tailwind CSS, JavaScript, API de Síntese de Voz / Integração de IA.
 
+Destaques Técnicos: Interface lúdica totalmente responsiva, fluxo interativo personalizado por nome do usuário, módulos dinâmicos de perguntas, respostas e curiosidades, navegação intuitiva 
+e deploy automatizado na nuvem.
 
+Repositório no GitHub: github.com/pollyanna79 (ou ajuste se o repositório tiver um nome específico)
+
+🔗 Link do Projeto: [quizkids-six.vercel.app[cite: 2]](https://quizkids-six.vercel.app/)
+
+*  
 🔍 Explore Outros Projetos
 Este sistema é apenas uma parte do meu ecossistema de desenvolvimento. Convido você a visitar o meu perfil completo no GitHub para explorar soluções que envolvem automação, modelagem de dados avançada e interfaces responsivas.
 🐙 github.com/pollyanna79
